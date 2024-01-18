@@ -114,16 +114,12 @@ http://localhost:3000
 ## Data in Mongodb
 - Users Collection:
 ![User Chats](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/Chats.PNG)
-
 - Chat Communities
 ![Communities](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/Communities.PNG)
-
 - Chat Messages
 ![Messages](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/Messages.PNG)
-
 - Private Chat
 ![Private chat](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/PrivateChat.PNG)
-
 - Chat Users
 ![Users](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/Users.PNG)
 
