@@ -112,25 +112,25 @@ http://localhost:3000
 ```
 
 ## Data in Mongodb
-- Users Collection:
 
+### Users Collection:
 ![User Chats](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/Chats.PNG)
 
-- Chat Communities
+### Chat Communities
 ![Communities](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/Communities.PNG)
 
-- Chat Messages
+### Chat Messages
 ![Messages](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/Messages.PNG)
 
-- Private Chat
+### Private Chat
 ![Private chat](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/PrivateChat.PNG)
 
-- Chat Users
+### Chat Users
 ![Users](https://github.com/shaheer-work/Ikonic-ChatApp/blob/main/Users.PNG)
 
 
 **Chats Print**
-- Community 
+- Community
 ```
 Community data: {
   _id: new ObjectId('65a9237155b00f0c9d8f6d2c'),
